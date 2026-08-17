@@ -1,0 +1,18 @@
+# 🎨 Image Colorization AI
+
+Deep Learning project to colorize black & white photos.
+
+## Live Demo
+- Frontend: https://YOUR-USERNAME.github.io/image-colorization
+- Backend: https://YOUR-APP.onrender.com
+
+## Tech Stack
+- Python, Flask, OpenCV
+- Caffe Deep Learning Model
+- HTML, CSS, JavaScript
+
+## Setup
+```bash
+cd backend
+pip install -r requirements.txt
+python app.py

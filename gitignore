@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+env/
+backend/uploads/*
+backend/model/models/*.caffemodel
+backend/model/models/*.prototxt
+backend/model/models/*.npy
+.vscode/
+node_modules/
